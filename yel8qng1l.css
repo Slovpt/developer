@@ -44,3 +44,12 @@
   color: white;
   background-color: grey;
 }
+
+#DiscordLink{
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  font-size: 200%;
+  font-family: "Comic Sans MS", Times, serif;
+  color:skyblue
+}
