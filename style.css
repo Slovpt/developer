@@ -1,15 +1,46 @@
+
 #TitleName{
   position: absolute;
-  top: 9%;
-  left: 43%;
-  font-size: 400%;
-  font-family: "Comic Sans MS", Times, serif;
+  top: 5%;
+  left: 10%;
+  font-size: 550%;
+  font-family: 'Montserrat', sans-serif;
+  color: white
 }
 
 #TitleUnderName{
   position: absolute;
-  top: 25%;
-  left: 16%;
+  top: 26%;
+  left: 10%;
   font-size: 150%;
   font-family: "Comic Sans MS", Times, serif;
+  color:white
+}
+
+#ProjectsName{
+  position: absolute;
+  top: 55%;
+  left: 10%;
+  font-size: 350%;
+  font-family: 'Montserrat', sans-serif;
+  color:white
+}
+
+#PlantIdlerNameProject{
+  position: absolute;
+  top: -20%;
+  left: 2%;
+  font-size: 200%;
+  font-family: "Comic Sans MS", Times, serif;
+  color:white
+}
+
+#PlantIdlerCont{
+  position: absolute;
+  width: 55%;
+  height: 10%;
+  top: 75%;
+  left: 10%;
+  color: white;
+  background-color: grey;
 }
