@@ -1,5 +1,5 @@
 #TitleName{
-  position: relative;
+  position: absolute;
   top: 50%;
   left: 25%;
   font-size: 400%;
@@ -7,7 +7,7 @@
 }
 
 #TitleUnderName{
-  position: relative;
+  position: absolute;
   top: 55%;
   left: 25%;
   font-size: 150%;
