@@ -1,6 +1,6 @@
 #TitleName{
   position: relative;
-  top: 9%;
+  top: 50%;
   left: 50%;
   font-size: 400%;
   font-family: "Comic Sans MS", Times, serif;
@@ -8,8 +8,8 @@
 
 #TitleUnderName{
   position: relative;
-  top: 26%;
-  left: 20%;
+  top: 55%;
+  left: 50%;
   font-size: 150%;
   font-family: "Comic Sans MS", Times, serif;
 }
