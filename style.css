@@ -1,15 +1,15 @@
 #TitleName{
   position: absolute;
-  top: 50%;
-  left: 25%;
+  top: 9%;
+  left: 50%;
   font-size: 400%;
   font-family: "Comic Sans MS", Times, serif;
 }
 
 #TitleUnderName{
   position: absolute;
-  top: 55%;
-  left: 25%;
+  top: 25%;
+  left: 50%;
   font-size: 150%;
   font-family: "Comic Sans MS", Times, serif;
 }
