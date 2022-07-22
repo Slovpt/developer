@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=200, initial-scale=1">
+    <title>Main Page</title>
+    <style>
+      #TitleName{
+        position: static;
+        font-size: 550%;
+        font-family: 'Montserrat', sans-serif;
+        color: white
+      }
+
+      #TitleUnderName{
+        position: static;
+        top: 26%;
+        left: 10%;
+        font-size: 150%;
+        font-family: "Comic Sans MS", Times, serif;
+        color:white
+      }
+
+      #ProjectsName{
+        position: static;
+        top: 55%;
+        left: 10%;
+        font-size: 350%;
+        font-family: 'Montserrat', sans-serif;
+        color:white
+      }
+
+      #CurrentNone{
+        position: static;
+        font-size: 155%;
+        top: 55%;
+        left: 10%;
+        font-family: 'Comic Sans MS', Times, serif;
+        color: white;
+      }
+
+      #DiscordLink{
+        position: static;
+        top: 40%;
+        left: 10%;
+        font-size: 200%;
+        font-family: "Comic Sans MS", Times, serif;
+        color:skyblue
+      }
+
+      #TwitterLink{
+        position: static;
+        top: 48%;
+        left: 30%;
+        font-size: 200%;
+        font-family: "Comic Sans MS", Times, serif;
+        color:skyblue
+      }
+
+    </style>
+
+    <script>
+      var siteWidth = 1280;
+      var scale = screen.width /siteWidth;
+
+      document.querySelector('meta[name="viewport"]').setAttribute('content', 'width='+siteWidth+', initial-scale='+scale+'');
+    </script>
+  </head>
+  </head>
+  <body bgcolor=#28282B>
+    <script src="script.js"></script>
+    <h1 id='TitleName' >Slovpt</h1>
+    <h2 id='TitleUnderName' >A professional developer at Python, JS, Html & CSS, Ruby, C, Go, Kotlin, and Lua.</h1>
+    <a href="https://discord.gg/wt4WEzpD" id='DiscordLink'>My Discord Server</a>
+    <br>
+    <a href="https://twitter.com/SlovptHere" id='TwitterLink'>My Twitter </a>
+    <h1 id="ProjectsName">Projects</h1>
+    <h2 id="CurrentNone">Currently None</h2>
+  </body>
+</html>
